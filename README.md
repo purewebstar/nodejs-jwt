@@ -2,8 +2,8 @@
 > simple user account registering and login app using nodejs, expressjs and mongodb using jsonwebtoken for authentication.
 
 ## Prerequisite:
-[x] npm latest version
-[x] REST Client Extension for Visual Studio (for checking api end points)
+- [x] npm latest version
+- [x] REST Client Extension for Visual Studio (for checking api end points)
 
 ## Technologies used:
 ### 1. Backend

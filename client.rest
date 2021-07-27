@@ -22,4 +22,5 @@ Content-Type: application/json
 // get user info / data
 ###
 GET http://localhost:4000/api/read-user-info
-
+Content-Type: application/json
+Authorization: Bearer 

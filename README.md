@@ -38,6 +38,7 @@ nodemon app.js
 
 ## Rest Client Api testing
 #### Creating User Account
+##### example
 ```rest
 POST http://localhost:4000/api/create-user
 Content-Type: application/json
@@ -49,6 +50,7 @@ Content-Type: application/json
 }
 ```
 #### Login user account
+##### example
 ```rest
 POST http://localhost:4000/api/create-user
 Content-Type: application/json
@@ -60,6 +62,7 @@ Content-Type: application/json
 ```
 
 #### Reading authorized resources
+##### example
 ```rest
 GET http://localhost:4000/api/read-user-info
 ```

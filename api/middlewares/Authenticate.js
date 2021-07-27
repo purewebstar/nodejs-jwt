@@ -1,4 +1,4 @@
-'use restrict'
+'use strict'
 /** Importing dependencies */
 import jwt from 'jsonwebtoken'
 

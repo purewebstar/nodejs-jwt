@@ -1,5 +1,5 @@
 {
-  "name": "user-account-jwt",
+  "name": "nodejs-jwt",
   "version": "1.0.0",
   "description": "user account registering and login app using jsonwebtoken",
   "main": "app.js",
